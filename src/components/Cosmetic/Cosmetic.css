@@ -1,0 +1,19 @@
+.cosmetic-container{
+    background-color:honeydew;
+    border:1px solid sandybrown;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    box-shadow: 25px;
+    
+}
+
+.cosmetic-container img{
+    width: 100px;
+    border: 2px solid sandybrown;
+    border-radius: 100%;
+}
+

@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.styling{
+ background-color:yellowgreen;
+ border: 2px solid lightsalmon;
+ border-radius: 15px;
+ margin: 15px;
+ padding: 15px;
+
+}
+
+.btn{
+  border: 2px solid lightsalmon;
+ border-radius: 15px;
+ padding: 15px;
+}
